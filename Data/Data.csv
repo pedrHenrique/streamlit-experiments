@@ -1,0 +1,1854 @@
+Data,Sistema,Projeto,Code Smells,Bugs,Vulnerabilidades,Cobertura,Qtde Linhas,Qtde Testes,Quality Gate
+08/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+08/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+08/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+08/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+08/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+08/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+08/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+08/01/2021,Arquitetura,arquitetura_connectcont-client-http,2,0,0,0.0,433,9,OK
+08/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+08/01/2021,Arquitetura,arquitetura_oauth2-lang,10,3,0,0.0,1091,0,ERROR
+08/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+08/01/2021,Arquitetura,arquitetura_oauth2-redis,19,9,0,0.0,1834,0,OK
+08/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+08/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+08/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+08/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+08/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+08/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+08/01/2021,CND,cnd-backend,1333,12,4,0.0,39841,0,OK
+08/01/2021,CND,cnd-frontend,1583,14,3,0.0,42150,0,OK
+08/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10363,438,OK
+08/01/2021,Comuns,comuns-consulta-api,105,3,0,19.0,2417,7,ERROR
+08/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+08/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,3647,0,OK
+08/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+08/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+08/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+08/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+08/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+08/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+08/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+08/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+08/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+08/01/2021,Connect Cont,connectcont-connectcont-api,1283,197,2,0.0,73759,251,ERROR
+08/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+08/01/2021,Connect Cont,connectcont-gestorempresas-api,1108,198,5,0.0,59245,881,ERROR
+08/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271170,0,OK
+08/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+08/01/2021,Contador Online,api-contabil-web,14,4,0,11.6,6244,38,OK
+08/01/2021,Contador Online,api-contador-online,765,387,2,0.0,87562,1,ERROR
+08/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+08/01/2021,Contador Online,contador-dto,7,0,0,0.0,5892,450,OK
+08/01/2021,Contador Online,contador-online-comuns-assembler,82,1,0,89.9,19854,1620,OK
+08/01/2021,Contador Online,contadoronline-angular,1923,49,0,0.0,226199,0,OK
+08/01/2021,Delivery,delivery-delivery-api,30,0,0,0.0,1718,0,OK
+08/01/2021,Delivery,delivery-delivery-client-http,27,2,0,0.0,1035,0,OK
+08/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+08/01/2021,Delivery,delivery-ifood-client-http,34,0,0,52.2,688,33,OK
+08/01/2021,Design System,designsystem-ng-contmatic,7,27,0,0.0,9102,0,ERROR
+08/01/2021,Documento,documento-documento-api,15,6,0,2.9,3446,8,OK
+08/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+08/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+08/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+08/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+08/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+08/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35179,0,OK
+08/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+08/01/2021,Gestao,gestao_gestao-web,24741,2707,223,0.0,1196983,4,OK
+08/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+08/01/2021,Gestao,gestao_loja-ecommerce,476,7,0,0.0,19202,2,OK
+08/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+08/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,ERROR
+08/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85110,4,ERROR
+08/01/2021,Gestao,gestao_loja-financeiro,2341,86,194,0.0,126108,3,OK
+08/01/2021,Gestao,gestao_loja-framework,4427,114,352,0.0,341919,8,OK
+08/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+08/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+08/01/2021,GestaoSST,gestaosst-apigestaosst,7,0,0,0.0,19457,0,OK
+08/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3156,4,OK
+08/01/2021,GestaoSST,gestaosst-frontend,53,0,0,0.0,59264,0,OK
+08/01/2021,GestaoSST,gestaosst-gestaosst-client-http,5,0,0,0.0,433,0,OK
+08/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2650,12,ERROR
+08/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+08/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+08/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,44.2,862,43,OK
+08/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,10.0,994,46,OK
+08/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+08/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+08/01/2021,NFCE,nfce-nfce.ui,2807,98,52,0.9,204694,204,OK
+08/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+08/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+08/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+08/01/2021,Notify,notify-batch,9,1,0,8.2,3751,271,ERROR
+08/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+08/01/2021,PHP,php_areacliente,1681,806,2,0.0,57117,0,ERROR
+08/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+08/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+08/01/2021,PHP,php_lojacontmatic,1842,388,2,0.0,106775,0,ERROR
+08/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+08/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+08/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+08/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+08/01/2021,Sefaz,sefaz-api-sefaz,94,0,5,0.0,14460,0,ERROR
+08/01/2021,Sefaz,sefaz-canonical-schema,123,0,0,0.0,10241,0,OK
+08/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+08/01/2021,Sefaz,sefaz-nfse-client-http,475,0,0,0.0,48552,0,OK
+08/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+08/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+08/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+08/01/2021,Simplifique,simplifique-frontend,10,54,0,0.0,10771,0,ERROR
+08/01/2021,Transportes,transportes_antigo,15177,2445,127,0.0,561608,0,OK
+08/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+08/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+11/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+11/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+11/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+11/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+11/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+11/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+11/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+11/01/2021,Arquitetura,arquitetura_connectcont-client-http,2,0,0,0.0,433,9,OK
+11/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+11/01/2021,Arquitetura,arquitetura_oauth2-lang,10,3,0,0.0,1091,0,ERROR
+11/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+11/01/2021,Arquitetura,arquitetura_oauth2-redis,19,9,0,0.0,1834,0,OK
+11/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+11/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+11/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+11/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+11/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+11/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+11/01/2021,CND,cnd-backend,1332,12,4,0.0,39926,0,OK
+11/01/2021,CND,cnd-frontend,1583,14,3,0.0,42165,0,OK
+11/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10363,438,OK
+11/01/2021,Comuns,comuns-consulta-api,105,3,0,19.0,2417,7,ERROR
+11/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+11/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,3647,0,OK
+11/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+11/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+11/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+11/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+11/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+11/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+11/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+11/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+11/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+11/01/2021,Connect Cont,connectcont-connectcont-api,1283,197,2,0.0,73759,251,ERROR
+11/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+11/01/2021,Connect Cont,connectcont-gestorempresas-api,1108,198,5,0.0,59245,881,ERROR
+11/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271170,0,OK
+11/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+11/01/2021,Contador Online,api-contabil-web,14,4,0,11.6,6244,38,OK
+11/01/2021,Contador Online,api-contador-online,765,386,2,0.0,87603,1,ERROR
+11/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+11/01/2021,Contador Online,contador-dto,7,0,0,0.0,5892,450,OK
+11/01/2021,Contador Online,contador-online-comuns-assembler,82,1,0,89.9,19854,1620,OK
+11/01/2021,Contador Online,contadoronline-angular,1923,49,0,0.0,226199,0,OK
+11/01/2021,Delivery,delivery-delivery-api,30,0,0,0.0,1718,0,OK
+11/01/2021,Delivery,delivery-delivery-client-http,27,2,0,0.0,1035,0,OK
+11/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+11/01/2021,Delivery,delivery-ifood-client-http,34,0,0,52.2,688,33,OK
+11/01/2021,Design System,designsystem-ng-contmatic,7,27,0,0.0,9102,0,ERROR
+11/01/2021,Documento,documento-documento-api,15,6,0,2.9,3446,8,OK
+11/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+11/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+11/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+11/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+11/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+11/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35179,0,OK
+11/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+11/01/2021,Gestao,gestao_gestao-web,24741,2707,223,0.0,1196983,4,OK
+11/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+11/01/2021,Gestao,gestao_loja-ecommerce,476,7,0,0.0,19202,2,OK
+11/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+11/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,ERROR
+11/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85110,4,ERROR
+11/01/2021,Gestao,gestao_loja-financeiro,2341,86,194,0.0,126108,3,OK
+11/01/2021,Gestao,gestao_loja-framework,4427,114,352,0.0,341919,8,OK
+11/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+11/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+11/01/2021,GestaoSST,gestaosst-apigestaosst,9,0,0,0.0,19627,0,OK
+11/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3183,4,OK
+11/01/2021,GestaoSST,gestaosst-frontend,59,0,0,0.0,59348,0,OK
+11/01/2021,GestaoSST,gestaosst-gestaosst-client-http,5,0,0,0.0,433,0,OK
+11/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2650,12,ERROR
+11/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+11/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+11/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+11/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,10.0,994,46,OK
+11/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+11/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+11/01/2021,NFCE,nfce-nfce.ui,2807,98,52,0.9,204694,204,OK
+11/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+11/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+11/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+11/01/2021,Notify,notify-batch,9,1,0,8.2,3751,271,ERROR
+11/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+11/01/2021,PHP,php_areacliente,1681,806,2,0.0,57117,0,ERROR
+11/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+11/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+11/01/2021,PHP,php_lojacontmatic,1848,388,2,0.0,106775,0,ERROR
+11/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+11/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+11/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+11/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+11/01/2021,Sefaz,sefaz-api-sefaz,98,0,5,0.0,14587,0,ERROR
+11/01/2021,Sefaz,sefaz-canonical-schema,123,0,0,0.0,10240,0,OK
+11/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+11/01/2021,Sefaz,sefaz-nfse-client-http,475,0,0,0.0,48552,0,OK
+11/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+11/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+11/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+11/01/2021,Simplifique,simplifique-frontend,11,54,0,0.0,11024,0,ERROR
+11/01/2021,Transportes,transportes_antigo,15177,2445,127,0.0,561608,0,OK
+11/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+11/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+12/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+12/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+12/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+12/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+12/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+12/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+12/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+12/01/2021,Arquitetura,arquitetura_connectcont-client-http,2,0,0,0.0,433,9,OK
+12/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+12/01/2021,Arquitetura,arquitetura_oauth2-lang,10,3,0,0.0,1091,0,ERROR
+12/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+12/01/2021,Arquitetura,arquitetura_oauth2-redis,19,9,0,0.0,1834,0,OK
+12/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+12/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+12/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+12/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+12/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+12/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+12/01/2021,CND,cnd-backend,1332,12,4,0.0,39926,0,OK
+12/01/2021,CND,cnd-frontend,1583,14,3,0.0,42165,0,OK
+12/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10365,438,OK
+12/01/2021,Comuns,comuns-consulta-api,105,3,0,19.0,2417,7,ERROR
+12/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+12/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,3647,0,OK
+12/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+12/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+12/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+12/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+12/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+12/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+12/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+12/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+12/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+12/01/2021,Connect Cont,connectcont-connectcont-api,1283,197,2,0.0,73759,251,ERROR
+12/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+12/01/2021,Connect Cont,connectcont-gestorempresas-api,1108,198,5,0.0,59245,881,ERROR
+12/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271178,0,OK
+12/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+12/01/2021,Contador Online,api-contabil-web,14,4,0,11.6,6244,38,OK
+12/01/2021,Contador Online,api-contador-online,765,386,2,0.0,87620,1,ERROR
+12/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+12/01/2021,Contador Online,contador-dto,7,0,0,0.0,5892,450,OK
+12/01/2021,Contador Online,contador-online-comuns-assembler,82,1,0,89.9,19854,1620,OK
+12/01/2021,Contador Online,contadoronline-angular,1917,49,0,0.0,226209,0,OK
+12/01/2021,Delivery,delivery-delivery-api,30,0,0,0.0,1718,0,OK
+12/01/2021,Delivery,delivery-delivery-client-http,27,2,0,0.0,1035,0,OK
+12/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+12/01/2021,Delivery,delivery-ifood-client-http,34,0,0,52.2,688,33,OK
+12/01/2021,Design System,designsystem-ng-contmatic,7,27,0,0.0,9332,0,ERROR
+12/01/2021,Documento,documento-documento-api,15,2,0,2.9,3441,8,OK
+12/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+12/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+12/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+12/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+12/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+12/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35179,0,OK
+12/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+12/01/2021,Gestao,gestao_gestao-web,24744,2707,223,0.0,1197041,4,OK
+12/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+12/01/2021,Gestao,gestao_loja-ecommerce,476,7,0,0.0,19202,2,OK
+12/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+12/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,ERROR
+12/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85120,4,ERROR
+12/01/2021,Gestao,gestao_loja-financeiro,2341,86,194,0.0,126108,3,OK
+12/01/2021,Gestao,gestao_loja-framework,4427,114,352,0.0,341970,8,OK
+12/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+12/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+12/01/2021,GestaoSST,gestaosst-apigestaosst,6,0,0,0.0,19655,0,OK
+12/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3183,4,OK
+12/01/2021,GestaoSST,gestaosst-frontend,54,0,0,0.0,59380,0,OK
+12/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2650,12,ERROR
+12/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+12/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+12/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+12/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+12/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+12/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+12/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+12/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+12/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+12/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+12/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+12/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+12/01/2021,PHP,php_areacliente,1681,808,2,0.0,57198,0,ERROR
+12/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+12/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+12/01/2021,PHP,php_lojacontmatic,1843,389,2,0.0,106852,0,ERROR
+12/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+12/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+12/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+12/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+12/01/2021,Sefaz,sefaz-api-sefaz,97,0,5,0.0,14690,0,ERROR
+12/01/2021,Sefaz,sefaz-canonical-schema,123,0,0,0.0,10240,0,OK
+12/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+12/01/2021,Sefaz,sefaz-nfse-client-http,475,0,0,0.0,48552,0,OK
+12/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+12/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+12/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+12/01/2021,Simplifique,simplifique-frontend,11,54,0,0.0,10919,0,ERROR
+12/01/2021,Transportes,transportes_antigo,15177,2445,127,0.0,561608,0,OK
+12/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+12/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+13/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+13/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+13/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+13/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+13/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+13/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+13/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+13/01/2021,Arquitetura,arquitetura_connectcont-client-http,2,0,0,0.0,433,9,OK
+13/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+13/01/2021,Arquitetura,arquitetura_oauth2-lang,10,3,0,0.0,1091,0,ERROR
+13/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+13/01/2021,Arquitetura,arquitetura_oauth2-redis,19,9,0,0.0,1834,0,OK
+13/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+13/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+13/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+13/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+13/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+13/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+13/01/2021,CND,cnd-backend,1302,12,4,0.0,39973,0,OK
+13/01/2021,CND,cnd-frontend,1573,14,3,0.0,42167,0,OK
+13/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10365,438,OK
+13/01/2021,Comuns,comuns-consulta-api,105,3,0,19.0,2417,7,ERROR
+13/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+13/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,3647,0,OK
+13/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+13/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+13/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+13/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+13/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+13/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+13/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+13/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+13/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+13/01/2021,Connect Cont,connectcont-connectcont-api,1283,197,2,0.0,73759,251,ERROR
+13/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+13/01/2021,Connect Cont,connectcont-gestorempresas-api,1108,198,5,0.0,59245,881,ERROR
+13/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271188,0,OK
+13/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+13/01/2021,Contador Online,api-contabil-web,14,4,0,11.6,6244,38,OK
+13/01/2021,Contador Online,api-contador-online,766,385,2,0.0,87663,1,ERROR
+13/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+13/01/2021,Contador Online,contador-dto,7,0,0,0.0,5892,450,OK
+13/01/2021,Contador Online,contador-online-comuns-assembler,82,1,0,89.9,19854,1620,OK
+13/01/2021,Contador Online,contadoronline-angular,1917,49,0,0.0,226209,0,OK
+13/01/2021,Delivery,delivery-delivery-api,30,0,0,0.0,1718,0,OK
+13/01/2021,Delivery,delivery-delivery-client-http,27,2,0,0.0,1035,0,OK
+13/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+13/01/2021,Delivery,delivery-ifood-client-http,34,0,0,52.2,688,33,OK
+13/01/2021,Design System,designsystem-ng-contmatic,7,27,0,0.0,9332,0,ERROR
+13/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+13/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+13/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+13/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+13/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+13/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+13/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35191,0,OK
+13/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+13/01/2021,Gestao,gestao_gestao-web,24746,2707,223,0.0,1197104,4,OK
+13/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+13/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+13/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+13/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,ERROR
+13/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+13/01/2021,Gestao,gestao_loja-financeiro,2341,86,194,0.0,126108,3,OK
+13/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+13/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+13/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+13/01/2021,GestaoSST,gestaosst-apigestaosst,6,0,0,0.0,19660,0,OK
+13/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3183,4,OK
+13/01/2021,GestaoSST,gestaosst-frontend,53,4,0,0.0,59432,0,ERROR
+13/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+13/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+13/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+13/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+13/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+13/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+13/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+13/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+13/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+13/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+13/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+13/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+13/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+13/01/2021,PHP,php_areacliente,1681,808,2,0.0,57198,0,ERROR
+13/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+13/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+13/01/2021,PHP,php_lojacontmatic,1843,389,2,0.0,106852,0,ERROR
+13/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+13/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+13/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+13/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+13/01/2021,Sefaz,sefaz-api-sefaz,98,0,5,0.0,15036,0,ERROR
+13/01/2021,Sefaz,sefaz-canonical-schema,123,0,0,0.0,10248,0,OK
+13/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+13/01/2021,Sefaz,sefaz-nfse-client-http,475,0,0,0.0,48552,0,OK
+13/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+13/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+13/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+13/01/2021,Simplifique,simplifique-frontend,11,54,0,0.0,10919,0,ERROR
+13/01/2021,Transportes,transportes_antigo,15177,2445,127,0.0,561608,0,OK
+13/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+13/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+14/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+14/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+14/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+14/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+14/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+14/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+14/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+14/01/2021,Arquitetura,arquitetura_connectcont-client-http,2,0,0,0.0,433,9,OK
+14/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+14/01/2021,Arquitetura,arquitetura_oauth2-lang,10,3,0,0.0,1091,0,ERROR
+14/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+14/01/2021,Arquitetura,arquitetura_oauth2-redis,19,9,0,0.0,1834,0,OK
+14/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+14/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+14/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+14/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+14/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+14/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+14/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+14/01/2021,CND,cnd-frontend,1573,14,3,0.0,42167,0,OK
+14/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10365,438,OK
+14/01/2021,Comuns,comuns-consulta-api,105,3,0,19.0,2417,7,ERROR
+14/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+14/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,3647,0,OK
+14/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+14/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+14/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+14/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+14/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+14/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+14/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+14/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+14/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+14/01/2021,Connect Cont,connectcont-connectcont-api,1280,197,2,0.0,73766,251,ERROR
+14/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+14/01/2021,Connect Cont,connectcont-gestorempresas-api,612,134,4,0.0,59245,881,OK
+14/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271188,0,OK
+14/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+14/01/2021,Contador Online,api-contabil-web,14,4,0,11.6,6244,38,OK
+14/01/2021,Contador Online,api-contador-online,767,384,2,0.0,87728,1,ERROR
+14/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+14/01/2021,Contador Online,contador-dto,7,0,0,0.0,5892,450,OK
+14/01/2021,Contador Online,contador-online-comuns-assembler,82,1,0,89.9,19854,1620,OK
+14/01/2021,Contador Online,contadoronline-angular,1917,49,0,0.0,226209,0,OK
+14/01/2021,Delivery,delivery-delivery-api,30,0,0,0.0,1718,0,OK
+14/01/2021,Delivery,delivery-delivery-client-http,27,2,0,0.0,1035,0,OK
+14/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+14/01/2021,Delivery,delivery-ifood-client-http,34,0,0,52.2,688,33,OK
+14/01/2021,Design System,designsystem-ng-contmatic,7,27,0,0.0,9606,0,ERROR
+14/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+14/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+14/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+14/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+14/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+14/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+14/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35191,0,OK
+14/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+14/01/2021,Gestao,gestao_gestao-web,24746,2707,223,0.0,1197117,4,OK
+14/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+14/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+14/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+14/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,ERROR
+14/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+14/01/2021,Gestao,gestao_loja-financeiro,2341,86,194,0.0,126108,3,OK
+14/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+14/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+14/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+14/01/2021,GestaoSST,gestaosst-apigestaosst,6,0,0,0.0,19661,0,OK
+14/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3183,4,OK
+14/01/2021,GestaoSST,gestaosst-frontend,71,4,0,0.0,59682,0,ERROR
+14/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+14/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+14/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+14/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+14/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+14/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+14/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+14/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+14/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+14/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+14/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+14/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+14/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+14/01/2021,PHP,php_areacliente,1691,824,2,0.0,57918,0,ERROR
+14/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+14/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+14/01/2021,PHP,php_lojacontmatic,1843,389,2,0.0,106852,0,ERROR
+14/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+14/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+14/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+14/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+14/01/2021,Sefaz,sefaz-api-sefaz,93,0,5,0.0,15097,0,ERROR
+14/01/2021,Sefaz,sefaz-canonical-schema,123,0,0,0.0,10248,0,OK
+14/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+14/01/2021,Sefaz,sefaz-nfse-client-http,475,0,0,0.0,48552,0,OK
+14/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+14/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+14/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+14/01/2021,Simplifique,simplifique-frontend,15,73,0,0.0,12244,0,ERROR
+14/01/2021,Transportes,transportes_antigo,15177,2445,127,0.0,561610,0,OK
+14/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+14/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+15/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+15/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+15/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+15/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+15/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+15/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+15/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+15/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+15/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+15/01/2021,Arquitetura,arquitetura_oauth2-lang,10,3,0,0.0,1091,0,ERROR
+15/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+15/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1912,0,OK
+15/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+15/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+15/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+15/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+15/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+15/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+15/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+15/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+15/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10365,438,OK
+15/01/2021,Comuns,comuns-consulta-api,105,3,0,0.7,2417,7,ERROR
+15/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+15/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,3647,0,OK
+15/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+15/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+15/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+15/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+15/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+15/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+15/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+15/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+15/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+15/01/2021,Connect Cont,connectcont-connectcont-api,1280,197,2,0.0,73766,251,ERROR
+15/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+15/01/2021,Connect Cont,connectcont-gestorempresas-api,1108,198,5,0.0,59251,881,OK
+15/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271188,0,OK
+15/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+15/01/2021,Contador Online,api-contabil-web,14,4,0,11.6,6244,38,OK
+15/01/2021,Contador Online,api-contador-online,767,384,2,0.0,87731,1,ERROR
+15/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+15/01/2021,Contador Online,contador-dto,7,0,0,0.0,5892,450,OK
+15/01/2021,Contador Online,contador-online-comuns-assembler,82,1,0,89.9,19854,1620,OK
+15/01/2021,Contador Online,contadoronline-angular,1925,49,0,0.0,226229,0,OK
+15/01/2021,Delivery,delivery-delivery-api,30,0,0,0.0,1718,0,OK
+15/01/2021,Delivery,delivery-delivery-client-http,27,2,0,0.0,1108,0,OK
+15/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+15/01/2021,Delivery,delivery-ifood-client-http,34,0,0,52.2,688,33,OK
+15/01/2021,Design System,designsystem-ng-contmatic,7,27,0,0.0,9605,0,ERROR
+15/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+15/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+15/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+15/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+15/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+15/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+15/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35191,0,OK
+15/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+15/01/2021,Gestao,gestao_gestao-web,24746,2707,223,0.0,1197117,4,OK
+15/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+15/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+15/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+15/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,ERROR
+15/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+15/01/2021,Gestao,gestao_loja-financeiro,2341,86,194,0.0,126108,3,OK
+15/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+15/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+15/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+15/01/2021,GestaoSST,gestaosst-apigestaosst,6,0,0,0.0,19661,0,OK
+15/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3183,4,OK
+15/01/2021,GestaoSST,gestaosst-frontend,71,4,0,0.0,59702,0,ERROR
+15/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+15/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+15/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+15/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+15/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+15/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+15/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+15/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+15/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+15/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+15/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+15/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+15/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+15/01/2021,PHP,php_areacliente,1691,824,2,0.0,57918,0,ERROR
+15/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+15/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+15/01/2021,PHP,php_lojacontmatic,1849,389,2,0.0,106852,0,ERROR
+15/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+15/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+15/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+15/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+15/01/2021,Sefaz,sefaz-api-sefaz,90,0,5,0.0,15184,0,ERROR
+15/01/2021,Sefaz,sefaz-canonical-schema,123,0,0,0.0,10248,0,OK
+15/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+15/01/2021,Sefaz,sefaz-nfse-client-http,475,0,0,0.0,48552,0,OK
+15/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+15/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+15/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+15/01/2021,Simplifique,simplifique-frontend,15,73,0,0.0,12244,0,ERROR
+15/01/2021,Transportes,transportes_antigo,15177,2445,127,0.0,561610,0,OK
+15/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+15/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+18/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+18/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+18/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+18/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+18/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+18/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+18/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+18/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+18/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+18/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,ERROR
+18/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+18/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1912,0,OK
+18/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+18/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+18/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+18/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+18/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+18/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+18/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+18/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+18/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10365,438,OK
+18/01/2021,Comuns,comuns-consulta-api,105,3,0,0.7,2417,7,ERROR
+18/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+18/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,3647,0,OK
+18/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+18/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+18/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+18/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+18/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+18/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+18/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+18/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+18/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+18/01/2021,Connect Cont,connectcont-connectcont-api,784,133,1,0.0,73766,251,OK
+18/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+18/01/2021,Connect Cont,connectcont-gestorempresas-api,611,134,4,0.0,59270,881,OK
+18/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271199,0,OK
+18/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+18/01/2021,Contador Online,api-contabil-web,14,4,0,11.6,6244,38,OK
+18/01/2021,Contador Online,api-contador-online,767,384,2,0.0,87734,1,ERROR
+18/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+18/01/2021,Contador Online,contador-dto,7,0,0,0.0,5892,450,OK
+18/01/2021,Contador Online,contador-online-comuns-assembler,82,1,0,89.9,19854,1620,OK
+18/01/2021,Contador Online,contadoronline-angular,1925,49,0,0.0,226229,0,OK
+18/01/2021,Delivery,delivery-delivery-api,30,0,0,0.0,1718,0,OK
+18/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1108,0,OK
+18/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+18/01/2021,Delivery,delivery-ifood-client-http,34,0,0,52.2,688,33,OK
+18/01/2021,Design System,designsystem-ng-contmatic,178,28,0,0.0,9914,0,ERROR
+18/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+18/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+18/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+18/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+18/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+18/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+18/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35191,0,OK
+18/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+18/01/2021,Gestao,gestao_gestao-web,24746,2707,223,0.0,1197117,4,OK
+18/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+18/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+18/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+18/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,ERROR
+18/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+18/01/2021,Gestao,gestao_loja-financeiro,2341,86,194,0.0,126109,3,OK
+18/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+18/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+18/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+18/01/2021,GestaoSST,gestaosst-apigestaosst,7,0,0,0.0,19795,0,OK
+18/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3186,4,OK
+18/01/2021,GestaoSST,gestaosst-frontend,46,0,0,0.0,59659,0,OK
+18/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,9,ERROR
+18/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+18/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+18/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+18/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+18/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+18/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+18/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+18/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+18/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+18/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+18/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+18/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+18/01/2021,PHP,php_areacliente,1691,824,2,0.0,57918,0,ERROR
+18/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+18/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+18/01/2021,PHP,php_lojacontmatic,1843,389,2,0.0,106852,0,ERROR
+18/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+18/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+18/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+18/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+18/01/2021,Sefaz,sefaz-api-sefaz,85,0,5,0.0,15178,0,OK
+18/01/2021,Sefaz,sefaz-canonical-schema,123,0,0,0.0,10248,0,OK
+18/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+18/01/2021,Sefaz,sefaz-nfse-client-http,475,0,0,0.0,48552,0,OK
+18/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+18/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+18/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+18/01/2021,Simplifique,simplifique-frontend,15,74,0,0.0,13103,0,ERROR
+18/01/2021,Transportes,transportes_antigo,15177,2445,127,0.0,561610,0,OK
+18/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+18/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+19/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+19/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+19/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+19/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+19/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+19/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+19/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+19/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+19/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+19/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,ERROR
+19/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+19/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1912,0,OK
+19/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+19/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+19/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+19/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+19/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+19/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+19/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+19/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+19/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10365,438,OK
+19/01/2021,Comuns,comuns-consulta-api,105,3,0,0.7,2417,7,ERROR
+19/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+19/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,3647,0,OK
+19/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+19/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+19/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+19/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+19/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+19/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+19/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+19/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+19/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+19/01/2021,Connect Cont,connectcont-connectcont-api,1280,197,2,0.0,73766,251,OK
+19/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+19/01/2021,Connect Cont,connectcont-gestorempresas-api,611,134,4,0.0,59270,881,OK
+19/01/2021,Connect Cont,connectcont-painel-controle,2406,457,0,0.0,271199,0,ERROR
+19/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+19/01/2021,Contador Online,api-contabil-web,14,4,0,11.6,6244,38,OK
+19/01/2021,Contador Online,api-contador-online,767,384,2,0.0,87734,1,ERROR
+19/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+19/01/2021,Contador Online,contador-dto,7,0,0,0.0,5892,450,OK
+19/01/2021,Contador Online,contador-online-comuns-assembler,82,1,0,89.9,19854,1620,OK
+19/01/2021,Contador Online,contadoronline-angular,1925,49,0,0.0,226222,0,OK
+19/01/2021,Delivery,delivery-delivery-api,30,0,0,0.0,1718,0,OK
+19/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1108,0,OK
+19/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+19/01/2021,Delivery,delivery-ifood-client-http,34,0,0,52.2,688,33,OK
+19/01/2021,Design System,designsystem-ng-contmatic,178,28,0,0.0,10039,0,ERROR
+19/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+19/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+19/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+19/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+19/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+19/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+19/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35191,0,OK
+19/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+19/01/2021,Gestao,gestao_gestao-web,24747,2707,223,0.0,1197165,4,OK
+19/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+19/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+19/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+19/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,ERROR
+19/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+19/01/2021,Gestao,gestao_loja-financeiro,2341,86,194,0.0,126108,3,OK
+19/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+19/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+19/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+19/01/2021,GestaoSST,gestaosst-apigestaosst,7,0,0,0.0,20271,0,OK
+19/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3349,4,OK
+19/01/2021,GestaoSST,gestaosst-frontend,47,0,0,0.0,59737,0,OK
+19/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+19/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+19/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+19/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+19/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+19/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+19/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+19/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+19/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+19/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+19/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+19/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+19/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+19/01/2021,PHP,php_areacliente,1691,824,2,0.0,57918,0,ERROR
+19/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+19/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+19/01/2021,PHP,php_lojacontmatic,1849,389,2,0.0,106852,0,ERROR
+19/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+19/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+19/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+19/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+19/01/2021,Sefaz,sefaz-api-sefaz,85,0,5,0.0,15201,0,OK
+19/01/2021,Sefaz,sefaz-canonical-schema,123,0,0,0.0,10248,0,OK
+19/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+19/01/2021,Sefaz,sefaz-nfse-client-http,475,0,0,0.0,48552,0,OK
+19/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+19/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+19/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+19/01/2021,Simplifique,simplifique-frontend,15,74,0,0.0,13124,0,ERROR
+19/01/2021,Transportes,transportes_antigo,15158,2374,127,0.0,561651,0,OK
+19/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+19/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+20/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+20/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+20/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+20/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+20/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+20/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+20/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+20/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+20/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+20/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,OK
+20/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+20/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1912,0,OK
+20/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+20/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+20/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+20/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+20/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+20/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+20/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+20/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+20/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10365,438,OK
+20/01/2021,Comuns,comuns-consulta-api,105,3,0,0.7,2417,7,ERROR
+20/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+20/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,3647,0,OK
+20/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+20/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+20/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+20/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+20/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+20/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+20/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+20/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+20/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+20/01/2021,Connect Cont,connectcont-connectcont-api,784,133,1,0.0,73766,251,OK
+20/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+20/01/2021,Connect Cont,connectcont-gestorempresas-api,1107,198,5,0.0,59270,881,OK
+20/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271199,0,OK
+20/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+20/01/2021,Contador Online,api-contabil-web,14,4,0,11.6,6244,38,OK
+20/01/2021,Contador Online,api-contador-online,768,384,2,0.0,87743,1,ERROR
+20/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+20/01/2021,Contador Online,contador-dto,7,0,0,0.0,5892,450,OK
+20/01/2021,Contador Online,contador-online-comuns-assembler,82,1,0,89.9,19854,1620,OK
+20/01/2021,Contador Online,contadoronline-angular,1930,49,0,0.0,226228,0,OK
+20/01/2021,Delivery,delivery-delivery-api,30,0,0,0.0,1718,0,OK
+20/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1110,0,OK
+20/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+20/01/2021,Delivery,delivery-ifood-client-http,34,0,0,52.2,688,33,OK
+20/01/2021,Design System,designsystem-ng-contmatic,180,29,0,0.0,10063,0,ERROR
+20/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+20/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+20/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+20/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+20/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+20/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+20/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35191,0,OK
+20/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+20/01/2021,Gestao,gestao_gestao-web,24747,2707,223,0.0,1197165,4,OK
+20/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+20/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+20/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+20/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,ERROR
+20/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+20/01/2021,Gestao,gestao_loja-financeiro,2341,86,194,0.0,126108,3,OK
+20/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+20/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+20/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+20/01/2021,GestaoSST,gestaosst-apigestaosst,7,0,0,0.0,20452,0,OK
+20/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3412,4,OK
+20/01/2021,GestaoSST,gestaosst-frontend,47,0,0,0.0,59790,0,OK
+20/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+20/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+20/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+20/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+20/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+20/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+20/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+20/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+20/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+20/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+20/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+20/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+20/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+20/01/2021,PHP,php_areacliente,1691,824,2,0.0,57918,0,ERROR
+20/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+20/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+20/01/2021,PHP,php_lojacontmatic,1843,389,2,0.0,106852,0,ERROR
+20/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+20/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+20/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+20/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+20/01/2021,Sefaz,sefaz-api-sefaz,85,0,5,0.0,15201,0,OK
+20/01/2021,Sefaz,sefaz-canonical-schema,123,0,0,0.0,10248,0,OK
+20/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+20/01/2021,Sefaz,sefaz-nfse-client-http,475,0,0,0.0,48552,0,OK
+20/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+20/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+20/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+20/01/2021,Simplifique,simplifique-frontend,15,74,0,0.0,13124,0,ERROR
+20/01/2021,Transportes,transportes_antigo,15177,2444,127,0.0,561651,0,OK
+20/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+20/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+21/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+21/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+21/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+21/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+21/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+21/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+21/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+21/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+21/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+21/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,OK
+21/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+21/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1912,0,OK
+21/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+21/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+21/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+21/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+21/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+21/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+21/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+21/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+21/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10365,438,OK
+21/01/2021,Comuns,comuns-consulta-api,105,3,0,0.6,2460,7,ERROR
+21/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+21/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,3647,0,OK
+21/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+21/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+21/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+21/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+21/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+21/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+21/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+21/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+21/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+21/01/2021,Connect Cont,connectcont-connectcont-api,1280,197,2,0.0,73766,251,OK
+21/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+21/01/2021,Connect Cont,connectcont-gestorempresas-api,1107,198,5,0.0,59270,881,OK
+21/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271199,0,OK
+21/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+21/01/2021,Contador Online,api-contabil-web,14,4,0,11.6,6244,38,OK
+21/01/2021,Contador Online,api-contador-online,771,387,2,0.0,87768,1,ERROR
+21/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+21/01/2021,Contador Online,contador-dto,7,0,0,0.0,5892,450,OK
+21/01/2021,Contador Online,contador-online-comuns-assembler,82,1,0,89.9,19854,1620,OK
+21/01/2021,Contador Online,contadoronline-angular,1929,49,0,0.0,226232,0,OK
+21/01/2021,Delivery,delivery-delivery-api,30,0,0,0.0,1718,0,OK
+21/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1110,0,OK
+21/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+21/01/2021,Delivery,delivery-ifood-client-http,34,0,0,52.2,688,33,OK
+21/01/2021,Design System,designsystem-ng-contmatic,180,29,0,0.0,10063,0,ERROR
+21/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+21/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+21/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+21/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+21/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+21/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+21/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35191,0,OK
+21/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+21/01/2021,Gestao,gestao_gestao-web,24747,2707,223,0.0,1197165,4,OK
+21/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+21/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+21/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+21/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,ERROR
+21/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+21/01/2021,Gestao,gestao_loja-financeiro,2341,86,194,0.0,126108,3,OK
+21/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+21/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+21/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+21/01/2021,GestaoSST,gestaosst-apigestaosst,7,0,0,0.0,20516,0,OK
+21/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3464,4,OK
+21/01/2021,GestaoSST,gestaosst-frontend,49,0,0,0.0,60004,0,OK
+21/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+21/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+21/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+21/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+21/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+21/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+21/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+21/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+21/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+21/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+21/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+21/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+21/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+21/01/2021,PHP,php_areacliente,1691,824,2,0.0,57918,0,ERROR
+21/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+21/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+21/01/2021,PHP,php_lojacontmatic,1843,389,2,0.0,106852,0,ERROR
+21/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+21/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+21/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+21/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+21/01/2021,Sefaz,sefaz-api-sefaz,96,0,5,0.0,15472,0,OK
+21/01/2021,Sefaz,sefaz-canonical-schema,123,0,0,0.0,10256,0,OK
+21/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+21/01/2021,Sefaz,sefaz-nfse-client-http,480,0,0,0.0,48925,0,OK
+21/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+21/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+21/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+21/01/2021,Simplifique,simplifique-frontend,15,74,0,0.0,13275,0,ERROR
+21/01/2021,Transportes,transportes_antigo,15177,2444,127,0.0,561651,0,OK
+21/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+21/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+22/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+22/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+22/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+22/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+22/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+22/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+22/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+22/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+22/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+22/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,OK
+22/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+22/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1912,0,OK
+22/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+22/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+22/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+22/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+22/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+22/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+22/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+22/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+22/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10365,438,OK
+22/01/2021,Comuns,comuns-consulta-api,105,3,0,18.8,2460,7,ERROR
+22/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+22/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,4012,0,OK
+22/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+22/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+22/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+22/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+22/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+22/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+22/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+22/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+22/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+22/01/2021,Connect Cont,connectcont-connectcont-api,784,133,1,0.0,73766,251,OK
+22/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+22/01/2021,Connect Cont,connectcont-gestorempresas-api,1107,198,5,0.0,59270,881,OK
+22/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271199,0,OK
+22/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+22/01/2021,Contador Online,api-contabil-web,14,4,0,11.6,6244,38,OK
+22/01/2021,Contador Online,api-contador-online,771,387,2,0.0,87768,1,ERROR
+22/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+22/01/2021,Contador Online,contador-dto,7,0,0,0.0,5892,450,OK
+22/01/2021,Contador Online,contador-online-comuns-assembler,82,1,0,89.9,19854,1620,OK
+22/01/2021,Contador Online,contadoronline-angular,1929,49,0,0.0,226232,0,OK
+22/01/2021,Delivery,delivery-delivery-api,33,0,0,0.0,1763,0,OK
+22/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1110,0,OK
+22/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+22/01/2021,Delivery,delivery-ifood-client-http,33,0,0,48.6,697,33,OK
+22/01/2021,Design System,designsystem-ng-contmatic,175,29,0,0.0,10070,0,ERROR
+22/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+22/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+22/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+22/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+22/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+22/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+22/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35191,0,OK
+22/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+22/01/2021,Gestao,gestao_gestao-web,24763,2711,223,0.0,1197298,4,ERROR
+22/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+22/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+22/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+22/01/2021,Gestao,gestao_loja-faturamento,2367,134,9,0.0,78556,71,OK
+22/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+22/01/2021,Gestao,gestao_loja-financeiro,2341,86,194,0.0,126108,3,OK
+22/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+22/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+22/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+22/01/2021,GestaoSST,gestaosst-apigestaosst,8,1,0,0.0,20625,0,ERROR
+22/01/2021,GestaoSST,gestaosst-canonical-schema,2,0,0,0.0,3508,4,OK
+22/01/2021,GestaoSST,gestaosst-frontend,53,0,0,0.0,60128,0,OK
+22/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+22/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+22/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+22/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+22/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+22/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+22/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+22/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+22/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+22/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+22/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+22/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+22/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+22/01/2021,PHP,php_areacliente,1702,824,2,0.0,58062,0,ERROR
+22/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+22/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+22/01/2021,PHP,php_lojacontmatic,1843,389,2,0.0,106852,0,ERROR
+22/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+22/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+22/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+22/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+22/01/2021,Sefaz,sefaz-api-sefaz,96,0,5,0.0,15500,0,OK
+22/01/2021,Sefaz,sefaz-canonical-schema,125,0,0,0.0,10387,0,OK
+22/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+22/01/2021,Sefaz,sefaz-nfse-client-http,488,0,0,0.0,52261,0,OK
+22/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+22/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+22/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+22/01/2021,Simplifique,simplifique-frontend,15,74,0,0.0,13275,0,ERROR
+22/01/2021,Transportes,transportes_antigo,15178,2444,127,0.0,561664,0,OK
+22/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+22/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+24/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+24/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+24/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+24/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+24/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+24/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+24/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+24/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+24/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+24/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,OK
+24/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+24/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1912,0,OK
+24/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+24/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+24/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+24/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+24/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+24/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+24/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+24/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+24/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10366,438,OK
+24/01/2021,Comuns,comuns-consulta-api,105,3,0,18.8,2460,7,ERROR
+24/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+24/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,4046,0,OK
+24/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+24/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+24/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+24/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+24/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+24/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+24/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+24/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+24/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+24/01/2021,Connect Cont,connectcont-connectcont-api,784,133,1,0.0,73766,251,OK
+24/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+24/01/2021,Connect Cont,connectcont-gestorempresas-api,617,134,4,0.0,59270,881,OK
+24/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271199,0,OK
+24/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+24/01/2021,Contador Online,api-contabil-web,17,4,0,11.5,6288,38,OK
+24/01/2021,Contador Online,api-contador-online,776,387,2,0.0,87869,1,ERROR
+24/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+24/01/2021,Contador Online,contador-dto,7,0,0,0.0,5894,450,OK
+24/01/2021,Contador Online,contador-online-comuns-assembler,81,1,0,89.9,19856,1620,OK
+24/01/2021,Contador Online,contadoronline-angular,1942,51,0,0.0,226377,0,ERROR
+24/01/2021,Delivery,delivery-delivery-api,33,0,0,0.0,1763,0,OK
+24/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1110,0,OK
+24/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+24/01/2021,Delivery,delivery-ifood-client-http,33,0,0,48.6,697,33,OK
+24/01/2021,Design System,designsystem-ng-contmatic,175,29,0,0.0,10070,0,ERROR
+24/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+24/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+24/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+24/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+24/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+24/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+24/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35160,0,OK
+24/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+24/01/2021,Gestao,gestao_gestao-web,24760,2711,223,0.0,1197263,4,ERROR
+24/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+24/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+24/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+24/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,OK
+24/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+24/01/2021,Gestao,gestao_loja-financeiro,2343,87,194,0.0,126264,3,ERROR
+24/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+24/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+24/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+24/01/2021,GestaoSST,gestaosst-apigestaosst,8,0,0,0.0,20645,0,OK
+24/01/2021,GestaoSST,gestaosst-canonical-schema,2,0,0,0.0,3515,4,OK
+24/01/2021,GestaoSST,gestaosst-frontend,54,0,0,0.0,60109,0,OK
+24/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+24/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+24/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+24/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+24/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+24/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+24/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+24/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+24/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+24/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+24/01/2021,Notify,notify-api,179,308,0,63.4,23345,137,OK
+24/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+24/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+24/01/2021,PHP,php_areacliente,1702,824,2,0.0,58062,0,ERROR
+24/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+24/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+24/01/2021,PHP,php_lojacontmatic,1843,389,2,0.0,106852,0,ERROR
+24/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+24/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+24/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+24/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+24/01/2021,Sefaz,sefaz-api-sefaz,95,0,5,0.0,15712,0,OK
+24/01/2021,Sefaz,sefaz-canonical-schema,125,0,0,0.0,10411,0,OK
+24/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+24/01/2021,Sefaz,sefaz-nfse-client-http,488,0,0,0.0,52261,0,OK
+24/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+24/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+24/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+24/01/2021,Simplifique,simplifique-frontend,15,74,0,0.0,13275,0,ERROR
+24/01/2021,Transportes,transportes_antigo,15177,2444,127,0.0,561663,0,OK
+24/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+24/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+25/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+25/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+25/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+25/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+25/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+25/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+25/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+25/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+25/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+25/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,OK
+25/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+25/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1912,0,OK
+25/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+25/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86323,573,OK
+25/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+25/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+25/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+25/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+25/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+25/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+25/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10366,438,OK
+25/01/2021,Comuns,comuns-consulta-api,105,3,0,18.8,2460,7,ERROR
+25/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+25/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,4046,0,OK
+25/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+25/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+25/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+25/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+25/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+25/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+25/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+25/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+25/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+25/01/2021,Connect Cont,connectcont-connectcont-api,784,133,1,0.0,73766,251,OK
+25/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+25/01/2021,Connect Cont,connectcont-gestorempresas-api,617,134,4,0.0,59270,881,OK
+25/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271199,0,OK
+25/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+25/01/2021,Contador Online,api-contabil-web,17,4,0,11.5,6288,38,OK
+25/01/2021,Contador Online,api-contador-online,776,387,2,0.0,87869,1,ERROR
+25/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+25/01/2021,Contador Online,contador-dto,7,0,0,0.0,5894,450,OK
+25/01/2021,Contador Online,contador-online-comuns-assembler,81,1,0,89.9,19856,1620,OK
+25/01/2021,Contador Online,contadoronline-angular,1942,51,0,0.0,226377,0,ERROR
+25/01/2021,Delivery,delivery-delivery-api,33,0,0,0.0,1763,0,OK
+25/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1110,0,OK
+25/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+25/01/2021,Delivery,delivery-ifood-client-http,33,0,0,48.6,697,33,OK
+25/01/2021,Design System,designsystem-ng-contmatic,175,29,0,0.0,10154,0,ERROR
+25/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+25/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+25/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+25/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+25/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+25/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+25/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35160,0,OK
+25/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+25/01/2021,Gestao,gestao_gestao-web,24760,2711,223,0.0,1197263,4,ERROR
+25/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+25/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+25/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+25/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,OK
+25/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+25/01/2021,Gestao,gestao_loja-financeiro,2343,87,194,0.0,126264,3,ERROR
+25/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+25/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+25/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+25/01/2021,GestaoSST,gestaosst-apigestaosst,8,0,0,0.0,20645,0,OK
+25/01/2021,GestaoSST,gestaosst-canonical-schema,2,0,0,0.0,3515,4,OK
+25/01/2021,GestaoSST,gestaosst-frontend,54,0,0,0.0,60109,0,OK
+25/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+25/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+25/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+25/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+25/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+25/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+25/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+25/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+25/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+25/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+25/01/2021,Notify,notify-api,179,308,0,63.4,23345,137,OK
+25/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+25/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+25/01/2021,PHP,php_areacliente,1702,824,2,0.0,58062,0,ERROR
+25/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+25/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+25/01/2021,PHP,php_lojacontmatic,1843,389,2,0.0,106852,0,ERROR
+25/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+25/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+25/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+25/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+25/01/2021,Sefaz,sefaz-api-sefaz,95,0,5,0.0,15712,0,OK
+25/01/2021,Sefaz,sefaz-canonical-schema,125,0,0,0.0,10411,0,OK
+25/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+25/01/2021,Sefaz,sefaz-nfse-client-http,488,0,0,0.0,52261,0,OK
+25/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+25/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+25/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+25/01/2021,Simplifique,simplifique-frontend,15,74,0,0.0,13275,0,ERROR
+25/01/2021,Transportes,transportes_antigo,15177,2444,127,0.0,561663,0,OK
+25/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+25/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+26/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+26/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+26/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+26/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+26/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+26/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+26/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+26/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+26/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+26/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,OK
+26/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+26/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1912,0,OK
+26/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+26/01/2021,Arquivos,api-arquivos,2345,402,0,10.5,86324,573,OK
+26/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+26/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+26/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+26/01/2021,Busca XML,buscaxml-sso,126,3,0,50.8,10414,534,OK
+26/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+26/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+26/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10366,438,OK
+26/01/2021,Comuns,comuns-consulta-api,105,3,0,18.8,2460,7,ERROR
+26/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+26/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,4046,0,OK
+26/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+26/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+26/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1415,0,OK
+26/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+26/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+26/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+26/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+26/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+26/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+26/01/2021,Connect Cont,connectcont-connectcont-api,1280,197,2,0.0,73766,251,OK
+26/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+26/01/2021,Connect Cont,connectcont-gestorempresas-api,617,134,4,0.0,59270,881,OK
+26/01/2021,Connect Cont,connectcont-painel-controle,118,66,0,0.0,271199,0,OK
+26/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+26/01/2021,Contador Online,api-contabil-web,17,4,0,11.5,6288,38,OK
+26/01/2021,Contador Online,api-contador-online,777,387,2,0.0,87903,1,ERROR
+26/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+26/01/2021,Contador Online,contador-dto,7,0,0,0.0,5894,450,OK
+26/01/2021,Contador Online,contador-online-comuns-assembler,81,1,0,89.9,19856,1620,OK
+26/01/2021,Contador Online,contadoronline-angular,1943,51,0,0.0,226377,0,ERROR
+26/01/2021,Delivery,delivery-delivery-api,33,0,0,0.0,1763,0,OK
+26/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1110,0,OK
+26/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+26/01/2021,Delivery,delivery-ifood-client-http,33,0,0,48.6,697,33,OK
+26/01/2021,Design System,designsystem-ng-contmatic,175,29,0,0.0,10154,0,ERROR
+26/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+26/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+26/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+26/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+26/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+26/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+26/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35160,0,OK
+26/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+26/01/2021,Gestao,gestao_gestao-web,24760,2711,223,0.0,1197263,4,ERROR
+26/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+26/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+26/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+26/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,OK
+26/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+26/01/2021,Gestao,gestao_loja-financeiro,2343,87,194,0.0,126264,3,ERROR
+26/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+26/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+26/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+26/01/2021,GestaoSST,gestaosst-apigestaosst,8,0,0,0.0,20645,0,OK
+26/01/2021,GestaoSST,gestaosst-canonical-schema,2,0,0,0.0,3515,4,OK
+26/01/2021,GestaoSST,gestaosst-frontend,54,0,0,0.0,60109,0,OK
+26/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+26/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+26/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+26/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+26/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+26/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+26/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+26/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+26/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+26/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+26/01/2021,Notify,notify-api,179,308,0,63.4,23345,137,OK
+26/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+26/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+26/01/2021,PHP,php_areacliente,1702,824,2,0.0,58062,0,ERROR
+26/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+26/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+26/01/2021,PHP,php_lojacontmatic,1849,389,2,0.0,106852,0,ERROR
+26/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+26/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+26/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+26/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+26/01/2021,Sefaz,sefaz-api-sefaz,96,2,5,0.0,16060,0,ERROR
+26/01/2021,Sefaz,sefaz-canonical-schema,125,0,0,0.0,10405,0,OK
+26/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+26/01/2021,Sefaz,sefaz-nfse-client-http,488,0,0,0.0,52261,0,OK
+26/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+26/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+26/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+26/01/2021,Simplifique,simplifique-frontend,15,74,0,0.0,13275,0,ERROR
+26/01/2021,Transportes,transportes_antigo,15177,2444,127,0.0,561663,0,OK
+26/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+26/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+27/01/2021,Arquitetura,arquitetura-api-lang,170,4,0,0.0,1866,0,OK
+27/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+27/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+27/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+27/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+27/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+27/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+27/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+27/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+27/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,OK
+27/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+27/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1915,0,OK
+27/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+27/01/2021,Arquivos,api-arquivos,2346,402,0,10.5,86345,573,OK
+27/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+27/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+27/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+27/01/2021,Busca XML,buscaxml-sso,130,3,0,50.8,10366,438,OK
+27/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+27/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+27/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10366,438,OK
+27/01/2021,Comuns,comuns-consulta-api,105,3,0,18.8,2463,8,ERROR
+27/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+27/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,4049,0,OK
+27/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+27/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+27/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1484,0,OK
+27/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+27/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+27/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+27/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+27/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+27/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+27/01/2021,Connect Cont,connectcont-connectcont-api,1280,197,2,0.0,73766,251,OK
+27/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+27/01/2021,Connect Cont,connectcont-gestorempresas-api,1113,198,5,0.0,59270,881,OK
+27/01/2021,Connect Cont,connectcont-painel-controle,2406,457,0,0.0,271199,0,ERROR
+27/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+27/01/2021,Contador Online,api-contabil-web,17,4,0,11.3,6309,38,OK
+27/01/2021,Contador Online,api-contador-online,778,387,2,0.0,87906,1,ERROR
+27/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+27/01/2021,Contador Online,contador-dto,7,0,0,0.0,5894,450,OK
+27/01/2021,Contador Online,contador-online-comuns-assembler,81,1,0,89.9,19856,1620,OK
+27/01/2021,Contador Online,contadoronline-angular,1946,51,0,0.0,226439,0,ERROR
+27/01/2021,Delivery,delivery-delivery-api,33,0,0,0.0,1763,0,OK
+27/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1110,0,OK
+27/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+27/01/2021,Delivery,delivery-ifood-client-http,33,0,0,48.6,697,33,OK
+27/01/2021,Design System,designsystem-ng-contmatic,177,29,0,0.0,10237,0,ERROR
+27/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+27/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+27/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+27/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+27/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+27/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+27/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35160,0,OK
+27/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+27/01/2021,Gestao,gestao_gestao-web,24760,2711,223,0.0,1197263,4,ERROR
+27/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+27/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+27/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+27/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,OK
+27/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+27/01/2021,Gestao,gestao_loja-financeiro,2343,87,194,0.0,126264,3,ERROR
+27/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+27/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+27/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+27/01/2021,GestaoSST,gestaosst-apigestaosst,8,0,0,0.0,20704,0,OK
+27/01/2021,GestaoSST,gestaosst-canonical-schema,2,0,0,0.0,3516,4,OK
+27/01/2021,GestaoSST,gestaosst-frontend,52,0,0,0.0,60265,0,OK
+27/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+27/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+27/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+27/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+27/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+27/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+27/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+27/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+27/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+27/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+27/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+27/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+27/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+27/01/2021,PHP,php_areacliente,1702,824,2,0.0,58062,0,ERROR
+27/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+27/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+27/01/2021,PHP,php_lojacontmatic,1843,389,2,0.0,106852,0,ERROR
+27/01/2021,Payment,payment-payment-api,33,0,0,0.0,2772,0,OK
+27/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+27/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+27/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+27/01/2021,Sefaz,sefaz-api-sefaz,100,2,5,0.0,16065,0,ERROR
+27/01/2021,Sefaz,sefaz-canonical-schema,125,0,0,0.0,10402,0,OK
+27/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+27/01/2021,Sefaz,sefaz-nfse-client-http,488,0,0,0.0,52261,0,OK
+27/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+27/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+27/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+27/01/2021,Simplifique,simplifique-frontend,15,74,0,0.0,13275,0,ERROR
+27/01/2021,Transportes,transportes_antigo,15177,2444,127,0.0,561678,0,OK
+27/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+27/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+28/01/2021,Arquitetura,arquitetura-api-lang,173,4,0,0.0,1892,0,OK
+28/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+28/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+28/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+28/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+28/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+28/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+28/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+28/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+28/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,OK
+28/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+28/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1915,0,OK
+28/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+28/01/2021,Arquivos,api-arquivos,2346,402,0,10.5,86345,573,OK
+28/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+28/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+28/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+28/01/2021,Busca XML,buscaxml-sso,130,3,0,50.8,10366,438,OK
+28/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+28/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+28/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10366,438,OK
+28/01/2021,Comuns,comuns-consulta-api,105,3,0,18.8,2463,8,ERROR
+28/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+28/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,4174,0,OK
+28/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+28/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+28/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1484,0,OK
+28/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+28/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+28/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+28/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+28/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4563,0,OK
+28/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+28/01/2021,Connect Cont,connectcont-connectcont-api,1280,197,2,0.0,73766,251,OK
+28/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+28/01/2021,Connect Cont,connectcont-gestorempresas-api,617,134,4,0.0,59270,881,OK
+28/01/2021,Connect Cont,connectcont-painel-controle,2406,457,0,0.0,271199,0,ERROR
+28/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+28/01/2021,Contador Online,api-contabil-web,17,4,0,11.3,6309,38,OK
+28/01/2021,Contador Online,api-contador-online,776,387,2,0.0,87904,1,ERROR
+28/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+28/01/2021,Contador Online,contador-dto,7,0,0,0.0,5894,450,OK
+28/01/2021,Contador Online,contador-online-comuns-assembler,81,1,0,89.9,19856,1620,OK
+28/01/2021,Contador Online,contadoronline-angular,1954,51,0,0.0,226437,0,ERROR
+28/01/2021,Delivery,delivery-delivery-api,33,0,0,0.0,1763,0,OK
+28/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1110,0,OK
+28/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+28/01/2021,Delivery,delivery-ifood-client-http,33,0,0,48.6,697,33,OK
+28/01/2021,Design System,designsystem-ng-contmatic,187,29,0,0.0,10485,0,ERROR
+28/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+28/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+28/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+28/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+28/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+28/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+28/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35160,0,OK
+28/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+28/01/2021,Gestao,gestao_gestao-web,24760,2711,223,0.0,1197263,4,ERROR
+28/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+28/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+28/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+28/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,OK
+28/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85168,4,ERROR
+28/01/2021,Gestao,gestao_loja-financeiro,2343,87,194,0.0,126264,3,ERROR
+28/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+28/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+28/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+28/01/2021,GestaoSST,gestaosst-apigestaosst,8,0,0,0.0,21503,0,OK
+28/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3952,4,OK
+28/01/2021,GestaoSST,gestaosst-frontend,52,0,0,0.0,60265,0,OK
+28/01/2021,GestaoSST,gestaosst-parceiro-api,16,1,0,0.0,2656,12,ERROR
+28/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+28/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+28/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+28/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+28/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+28/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+28/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+28/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+28/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+28/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+28/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+28/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+28/01/2021,PHP,php_areacliente,1702,824,2,0.0,58062,0,ERROR
+28/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+28/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+28/01/2021,PHP,php_lojacontmatic,1843,389,2,0.0,106852,0,ERROR
+28/01/2021,Payment,payment-client-http,4,0,0,55.3,648,18,OK
+28/01/2021,Payment,payment-itau-client-http,4,0,0,36.8,637,16,OK
+28/01/2021,Payment,payment-payment-api,57,0,0,0.0,4487,0,OK
+28/01/2021,Payment,payment-payment-client-http-resttemplate,54,0,0,0.0,1630,18,OK
+28/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+28/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+28/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+28/01/2021,Sefaz,sefaz-api-sefaz,99,0,5,0.0,16077,0,OK
+28/01/2021,Sefaz,sefaz-canonical-schema,125,0,0,0.0,10411,0,OK
+28/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+28/01/2021,Sefaz,sefaz-nfse-client-http,488,0,0,0.0,52261,0,OK
+28/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+28/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+28/01/2021,Simplifique,simplifique-financeiro-api,88,7,0,0.0,8305,83,OK
+28/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+28/01/2021,Simplifique,simplifique-frontend,15,74,0,0.0,13278,0,ERROR
+28/01/2021,Transportes,transportes_antigo,15177,2443,127,0.0,561722,0,OK
+28/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+28/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+29/01/2021,Arquitetura,arquitetura-api-lang,184,7,0,0.0,1960,0,ERROR
+29/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+29/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+29/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+29/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+29/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+29/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+29/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+29/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+29/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,OK
+29/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+29/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1915,0,OK
+29/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+29/01/2021,Arquivos,api-arquivos,2411,403,0,10.4,86860,573,ERROR
+29/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+29/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+29/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+29/01/2021,Busca XML,buscaxml-sso,130,3,0,50.8,10366,438,OK
+29/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+29/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+29/01/2021,Comuns,api-comuns-sso,130,1,0,50.8,10366,438,OK
+29/01/2021,Comuns,comuns-consulta-api,105,3,0,18.8,2463,8,ERROR
+29/01/2021,Comuns,comuns-consulta-canonical-schema,8,0,0,0.0,238,0,OK
+29/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,4395,0,OK
+29/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+29/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+29/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1499,0,OK
+29/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+29/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+29/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+29/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+29/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4581,0,OK
+29/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+29/01/2021,Connect Cont,connectcont-connectcont-api,1280,197,2,0.0,73766,251,OK
+29/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+29/01/2021,Connect Cont,connectcont-gestorempresas-api,1113,198,5,0.0,59270,881,OK
+29/01/2021,Connect Cont,connectcont-painel-controle,2406,457,0,0.0,271199,0,ERROR
+29/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+29/01/2021,Contador Online,api-contabil-web,17,4,0,11.3,6309,38,OK
+29/01/2021,Contador Online,api-contador-online,777,387,2,0.0,88000,1,ERROR
+29/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+29/01/2021,Contador Online,contador-dto,7,0,0,0.0,5894,450,OK
+29/01/2021,Contador Online,contador-online-comuns-assembler,81,1,0,89.9,19856,1620,OK
+29/01/2021,Contador Online,contadoronline-angular,1954,51,0,0.0,226437,0,ERROR
+29/01/2021,Delivery,delivery-delivery-api,33,0,0,0.0,1763,0,OK
+29/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1110,0,OK
+29/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+29/01/2021,Delivery,delivery-ifood-client-http,33,0,0,48.6,697,33,OK
+29/01/2021,Design System,designsystem-ng-contmatic,184,29,0,0.0,10500,0,ERROR
+29/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+29/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+29/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+29/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+29/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+29/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+29/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35160,0,OK
+29/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+29/01/2021,Gestao,gestao_gestao-web,24761,2711,223,0.0,1197274,4,ERROR
+29/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+29/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+29/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+29/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,OK
+29/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85174,4,ERROR
+29/01/2021,Gestao,gestao_loja-financeiro,2343,87,194,0.0,126284,3,ERROR
+29/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+29/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+29/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+29/01/2021,GestaoSST,gestaosst-apigestaosst,8,0,0,0.0,21598,0,OK
+29/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3952,4,OK
+29/01/2021,GestaoSST,gestaosst-frontend,51,0,0,0.0,60401,0,OK
+29/01/2021,GestaoSST,gestaosst-parceiro-api,39,1,0,0.0,3532,13,OK
+29/01/2021,GestaoSST,gestaosst-parceiro-canonical-schema,9,0,0,0.0,1193,0,OK
+29/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+29/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+29/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+29/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+29/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+29/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+29/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+29/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+29/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+29/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+29/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+29/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+29/01/2021,PHP,php_areacliente,1702,830,2,0.0,58071,0,ERROR
+29/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+29/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+29/01/2021,PHP,php_lojacontmatic,1849,389,2,0.0,106852,0,ERROR
+29/01/2021,Payment,payment-client-http,4,0,0,55.3,648,18,OK
+29/01/2021,Payment,payment-itau-client-http,4,0,0,36.0,659,16,OK
+29/01/2021,Payment,payment-payment-api,59,0,0,0.0,4559,0,OK
+29/01/2021,Payment,payment-payment-client-http-resttemplate,54,0,0,0.0,1630,18,OK
+29/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+29/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+29/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+29/01/2021,Sefaz,sefaz-api-sefaz,95,0,5,0.0,16115,0,OK
+29/01/2021,Sefaz,sefaz-canonical-schema,125,0,0,0.0,10420,0,OK
+29/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+29/01/2021,Sefaz,sefaz-nfse-client-http,488,0,0,0.0,52261,0,OK
+29/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+29/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+29/01/2021,Simplifique,simplifique-financeiro-api,85,7,0,0.0,8290,83,OK
+29/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+29/01/2021,Simplifique,simplifique-frontend,14,75,0,0.0,13372,0,ERROR
+29/01/2021,Transportes,transportes_antigo,15177,2443,127,0.0,561719,0,OK
+29/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+29/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
+30/01/2021,Arquitetura,arquitetura-api-lang,184,7,0,0.0,1960,0,ERROR
+30/01/2021,Arquitetura,arquitetura-api-lang-mongodb,15,0,0,0.0,464,0,OK
+30/01/2021,Arquitetura,arquitetura-api-lang-mysql,15,0,0,0.0,335,0,OK
+30/01/2021,Arquitetura,arquitetura-api-lang-postgresql,15,0,0,0.0,335,0,OK
+30/01/2021,Arquitetura,arquitetura-canonical-lang,25,0,0,0.0,592,0,OK
+30/01/2021,Arquitetura,arquitetura-entity-lang,4,0,0,0.0,263,0,OK
+30/01/2021,Arquitetura,arquitetura_canonical-schema-lang,3,0,0,0.0,245,0,OK
+30/01/2021,Arquitetura,arquitetura_connectcont-client-http,3,0,0,0.0,440,9,OK
+30/01/2021,Arquitetura,arquitetura_exception-lang,13,0,0,0.0,817,0,OK
+30/01/2021,Arquitetura,arquitetura_oauth2-lang,11,3,0,0.0,1100,0,OK
+30/01/2021,Arquitetura,arquitetura_oauth2-mongodb,34,5,0,0.0,3323,0,OK
+30/01/2021,Arquitetura,arquitetura_oauth2-redis,20,9,0,0.0,1915,0,OK
+30/01/2021,Arquitetura,arquitetura_oauth2-token-connectcont,3,1,0,0.0,210,0,OK
+30/01/2021,Arquivos,api-arquivos,2411,405,0,10.3,87119,573,ERROR
+30/01/2021,Busca XML,buscaxml-api,74,2,0,0.0,4655,22,OK
+30/01/2021,Busca XML,buscaxml-batch,229,3,0,0.0,2831,0,OK
+30/01/2021,Busca XML,buscaxml-migra-api,209,9,1,0.0,6899,0,OK
+30/01/2021,Busca XML,buscaxml-sso,130,3,0,50.5,10360,438,ERROR
+30/01/2021,CND,cnd-backend,1288,12,4,0.0,39966,0,OK
+30/01/2021,CND,cnd-frontend,1549,14,3,0.0,42177,0,OK
+30/01/2021,Comuns,api-comuns-sso,130,1,0,50.5,10360,438,OK
+30/01/2021,Comuns,comuns-consulta-api,105,3,0,18.6,2723,8,ERROR
+30/01/2021,Comuns,comuns-consulta-canonical-schema,9,0,0,0.0,284,0,OK
+30/01/2021,Comuns,comuns-reports-api,36,0,0,0.0,4395,0,OK
+30/01/2021,Comuns,comuns-reports-client,9,0,0,0.0,219,0,OK
+30/01/2021,Comuns,comuns-reports-feigh-client,2,0,0,0.0,150,0,OK
+30/01/2021,Comuns,comuns-streaming,4,0,0,0.0,1499,0,OK
+30/01/2021,Comuns,comuns_authorization-server,9,0,0,0.0,1278,0,OK
+30/01/2021,Comuns,comuns_sso-client-http,6,0,0,0.0,34,3,OK
+30/01/2021,Comuns,comuns_sso-private,5,0,2,0.0,323,0,OK
+30/01/2021,Connect Cont,connect-dto,3,0,0,0.0,1470,71,OK
+30/01/2021,Connect Cont,connectbatch-api,63,0,0,0.0,4581,0,OK
+30/01/2021,Connect Cont,connectcont-bus,33,0,0,0.0,2195,0,OK
+30/01/2021,Connect Cont,connectcont-connectcont-api,1280,197,2,0.0,73766,251,OK
+30/01/2021,Connect Cont,connectcont-connectcontia,277,97,0,0.0,15179,0,OK
+30/01/2021,Connect Cont,connectcont-gestorempresas-api,617,134,4,0.0,59270,881,OK
+30/01/2021,Connect Cont,connectcont-painel-controle,2406,457,0,0.0,271199,0,ERROR
+30/01/2021,Connect Cont,connectcont-windup-clienthttp,102,5,0,0.0,6921,26,OK
+30/01/2021,Contador Online,api-contabil-web,17,4,0,11.3,6309,38,OK
+30/01/2021,Contador Online,api-contador-online,775,387,2,0.0,87920,1,ERROR
+30/01/2021,Contador Online,api-folha-web,181,27,0,0.0,32299,0,OK
+30/01/2021,Contador Online,contador-dto,7,0,0,0.0,5894,450,OK
+30/01/2021,Contador Online,contador-online-comuns-assembler,81,1,0,89.9,19856,1620,OK
+30/01/2021,Contador Online,contadoronline-angular,1954,51,0,0.0,226437,0,ERROR
+30/01/2021,Delivery,delivery-delivery-api,33,0,0,0.0,1763,0,OK
+30/01/2021,Delivery,delivery-delivery-client-http,34,2,0,0.0,1110,0,OK
+30/01/2021,Delivery,delivery-delivery-client-http-resttemplate,35,0,0,0.0,1868,20,OK
+30/01/2021,Delivery,delivery-ifood-client-http,33,0,0,48.6,697,33,OK
+30/01/2021,Design System,designsystem-ng-contmatic,184,29,0,0.0,10500,0,ERROR
+30/01/2021,Documento,documento-documento-api,15,2,0,2.9,3444,8,OK
+30/01/2021,Documento,documento-documento-canonical-schema,8,0,0,0.0,233,0,OK
+30/01/2021,Documento,documento-documento-client-http,1,0,0,0.0,16,0,OK
+30/01/2021,Extrato Inteligente,api-extrato-inteligente,10,0,2,22.4,5734,55,OK
+30/01/2021,Extrato Inteligente,robo-extrato-inteligente,19,3,2,0.0,2596,0,OK
+30/01/2021,Gestao,gestao_crm-web,369,25,0,14.8,12890,154,OK
+30/01/2021,Gestao,gestao_gestao-migracoes,2,0,0,0.0,35160,0,OK
+30/01/2021,Gestao,gestao_gestao-reports,429,10,2,0.0,7483,0,OK
+30/01/2021,Gestao,gestao_gestao-web,24762,2711,223,0.0,1197312,4,ERROR
+30/01/2021,Gestao,gestao_loja-comuns,3929,162,9,0.0,97564,289,OK
+30/01/2021,Gestao,gestao_loja-ecommerce,484,7,0,0.0,19220,2,OK
+30/01/2021,Gestao,gestao_loja-estoque,1843,76,2,0.0,56186,16,OK
+30/01/2021,Gestao,gestao_loja-faturamento,2365,134,9,0.0,78553,71,OK
+30/01/2021,Gestao,gestao_loja-faturamentoproduto,3358,169,13,0.0,85174,4,ERROR
+30/01/2021,Gestao,gestao_loja-financeiro,2343,87,194,0.0,126284,3,ERROR
+30/01/2021,Gestao,gestao_loja-framework,4427,114,354,0.0,342105,8,ERROR
+30/01/2021,Gestao,gestao_public-api,2804,40,15,0.0,147450,0,ERROR
+30/01/2021,Gestao,gestao_tools,568,38,8,0.0,15486,0,OK
+30/01/2021,GestaoSST,gestaosst-apigestaosst,8,0,0,0.0,21598,0,OK
+30/01/2021,GestaoSST,gestaosst-canonical-schema,1,0,0,0.0,3952,4,OK
+30/01/2021,GestaoSST,gestaosst-frontend,53,0,0,0.0,60785,0,OK
+30/01/2021,GestaoSST,gestaosst-parceiro-api,41,1,0,0.0,3570,14,OK
+30/01/2021,GestaoSST,gestaosst-parceiro-canonical-schema,9,0,0,0.0,1189,0,OK
+30/01/2021,GestaoSST,gestaosst-parceiro-client-http,4,0,0,0.0,52,0,OK
+30/01/2021,Marktplace,marketplace-marketplace-api,84,6,5,0.0,2926,0,OK
+30/01/2021,Marktplace,marketplace-marketplace-client-http,9,0,0,49.4,862,55,OK
+30/01/2021,Marktplace,marketplace-mercadolivre-client-http,19,0,0,43.3,994,46,OK
+30/01/2021,NFCE,nfce-ebar,67,8,0,0.0,34412,0,OK
+30/01/2021,NFCE,nfce-nfce.framework,3435,1,13,0.0,128812,1226,OK
+30/01/2021,NFCE,nfce-nfce.ui,2807,26,52,0.9,204694,204,OK
+30/01/2021,NFSE,nfse-blade,225,40,0,0.0,6942,234,OK
+30/01/2021,NFSE,nfse-dto,1,0,0,0.0,1927,0,OK
+30/01/2021,Notify,notify-api,1343,403,0,19.6,23345,137,OK
+30/01/2021,Notify,notify-batch,8,1,0,8.9,3764,271,OK
+30/01/2021,PHP,php_academico,4129,282,0,0.0,129140,0,OK
+30/01/2021,PHP,php_areacliente,1702,830,2,0.0,58071,0,ERROR
+30/01/2021,PHP,php_autoatendimento,359,89,1,0.0,12022,0,OK
+30/01/2021,PHP,php_intranet,3010,551,1,0.0,121431,0,OK
+30/01/2021,PHP,php_lojacontmatic,1849,389,2,0.0,106852,0,ERROR
+30/01/2021,Payment,payment-client-http,4,0,0,34.2,689,3,OK
+30/01/2021,Payment,payment-itau-client-http,4,0,0,36.0,659,16,OK
+30/01/2021,Payment,payment-payment-api,54,0,0,0.0,4577,0,OK
+30/01/2021,Payment,payment-payment-client-http-resttemplate,57,0,0,0.0,1717,20,OK
+30/01/2021,Ponto Eletrônico,pontoeletronico-comuns-core-backend,44,0,0,0.0,802,0,OK
+30/01/2021,Ponto Eletrônico,pontoeletronico-integracao-relogio,259,0,5,0.0,11018,0,OK
+30/01/2021,Ponto Eletrônico,pontoeletronico-ponto-comuns-backend,1885,0,0,0.0,177080,0,OK
+30/01/2021,Sefaz,sefaz-api-sefaz,93,0,5,0.0,16138,0,OK
+30/01/2021,Sefaz,sefaz-canonical-schema,125,0,0,0.0,10420,0,OK
+30/01/2021,Sefaz,sefaz-nfe-client-http,391,0,0,0.0,128856,0,OK
+30/01/2021,Sefaz,sefaz-nfse-client-http,488,0,0,0.0,52261,0,OK
+30/01/2021,Serpro,serpro-canonical-schema,9,0,0,0.0,16766,0,OK
+30/01/2021,Serpro,serpro-serpro-client-http,34,0,0,0.0,57,31,OK
+30/01/2021,Simplifique,simplifique-erp-api,4,0,0,0.0,1132,0,OK
+30/01/2021,Simplifique,simplifique-financeiro-api,85,7,0,0.0,8288,85,OK
+30/01/2021,Simplifique,simplifique-financeiro-canonical-schema,2,0,0,0.0,12,0,OK
+30/01/2021,Simplifique,simplifique-frontend,14,84,0,0.0,13528,0,ERROR
+30/01/2021,Transportes,transportes_antigo,15177,2441,127,0.0,561713,0,ERROR
+30/01/2021,Transportes,transportes_transportes-tms,15,0,0,0.0,1074,0,OK
+30/01/2021,Transportes,transportes_transportes-view,1,0,0,0.0,202,0,OK
