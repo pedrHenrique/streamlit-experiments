@@ -1,24 +1,21 @@
 # automacao-sst-e2e
 
-## Baixando e Instalando o Projeto
+## Instalando as dependências do Projeto
 
-1. Clone o repositório
 ```
-git clone gitlab.contmatic.com.br/thiago.graca/automacao-sst-e2e.git
-```
-2. Instale as dependências do projeto
+1. Instale as dependências do projeto
 ```
 npm install
 ```
 Caso você não possua o NPM, você pode obter ele clicando neste [**Link**](https://nodejs.org/pt-br/)
 
-3. Insira seu usuário no arquivo de constantes sempre que for executar seus testes
+2. Insira seu usuário no arquivo de constantes sempre que for executar seus testes
 ```
 login_default = 'seuusuario@sstgestao'
 ```
 > Caminho para arquivo de constantes cypress/util/constants/constants.js
 
-4. Inicie o Cypress
+3. Inicie o Cypress
 ```
 npm run cypress:open
 ```
